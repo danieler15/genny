@@ -28,6 +28,7 @@ setup(name='genny',
           'PyYAML==5.1',
           'requests==2.21.0',
           'yamllint==1.15.0'
+          # 'shrub.py=0.2.3'
       ],
       setup_requires=[
           'nose==1.3.7'
